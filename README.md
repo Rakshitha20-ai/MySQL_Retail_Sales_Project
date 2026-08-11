@@ -228,6 +228,8 @@ MySQL_Retail_Sales_Project/
 └── images/
     └── retail-sales-dashboard.png
 
+---
 
+## 📁 Project Screenshot
 
 ![Retail Sales Performance Dashboard](images/retail-sales-dashboard.png)
