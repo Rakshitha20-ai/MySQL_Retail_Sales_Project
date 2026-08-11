@@ -227,3 +227,7 @@ MySQL_Retail_Sales_Project/
 │
 └── images/
     └── retail-sales-dashboard.png
+
+
+
+![Retail Sales Performance Dashboard](images/retail-sales-dashboard.png)
