@@ -213,6 +213,11 @@ Based on the Power BI dashboard:
 - Analytical Problem Solving
 
 ---
+## 📁 Project Screenshot
+
+![Retail Sales Performance Dashboard](images/retail-sales-dashboard.png)
+
+---
 
 ## 📁 Project Structure
 
@@ -230,6 +235,4 @@ MySQL_Retail_Sales_Project/
 
 ---
 
-## 📁 Project Screenshot
 
-![Retail Sales Performance Dashboard](images/retail-sales-dashboard.png)
