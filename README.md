@@ -233,6 +233,3 @@ MySQL_Retail_Sales_Project/
 └── images/
     └── retail-sales-dashboard.png
 
----
-
-
